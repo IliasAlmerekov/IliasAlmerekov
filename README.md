@@ -8,6 +8,7 @@
 
 [![Role](https://img.shields.io/badge/Role-Frontend%20Engineer-0f172a?style=for-the-badge)](./README.md)
 [![Focus](https://img.shields.io/badge/Focus-AI%20Engineering-1d4ed8?style=for-the-badge)](./README.md)
+[![Market](https://img.shields.io/badge/Market-Germany%20%7C%20EU-0f766e?style=for-the-badge)](./README.md)
 
 Entwicklung wartbarer Frontends mit React und TypeScript, kombiniert mit AI-gestuetzten Engineering-Workflows, Architekturdenken und hoher Delivery-Qualitaet.
 
@@ -39,6 +40,18 @@ Parallel dazu arbeite ich mit Claude und Codex an agentischen Workflows: Rollen 
 
 </div>
 
+## Engineering Signals
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-111827?style=flat-square)
+![Backend-Aware](https://img.shields.io/badge/Backend--Aware-Node.js%20%7C%20Symfony-1f2937?style=flat-square)
+![Architecture](https://img.shields.io/badge/Architecture-C4%20%7C%20Data%20Flow%20%7C%20Use%20Cases-334155?style=flat-square)
+![Delivery](https://img.shields.io/badge/Delivery-Testing%20%7C%20CI%2FCD%20%7C%20Reviewability-475569?style=flat-square)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Agents%20%7C%20Roles%20%7C%20Orchestration-0369a1?style=flat-square)
+
+</div>
+
 ## Fokus
 
 | Bereich | Schwerpunkt |
@@ -55,6 +68,18 @@ Parallel dazu arbeite ich mit Claude und Codex an agentischen Workflows: Rollen 
 | [darts](https://github.com/IliasAlmerekov/darts) | Frontend-Architektur, Testing-Disziplin, PWA-Flow, DX | React, TypeScript, Vite, Vitest, Playwright |
 | [swiftly](https://github.com/IliasAlmerekov/swiftly) | Produktdenken, Full-Stack-Integration, saubere Frontend-Umsetzung | React, TypeScript, Node.js |
 | [swiftly-backend](https://github.com/IliasAlmerekov/swiftly-backend) | API-Struktur, Contract Testing, Middleware, produktionsnahe Backend-Praxis | Node.js, Express, Redis, MongoDB, Docker |
+
+## Recent Work
+
+- Aufbau eines React- und TypeScript-basierten PWA-Projekts mit Vitest, Playwright und klaren Quality Gates.
+- Arbeit mit agentischen Workflows fuer Research, Review, Testing und Implementierung.
+- Vertiefung von Backend-Praxis in Node.js und Symfony sowie besseres Verstaendnis von API- und Delivery-Themen.
+
+## GitHub Snapshot
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IliasAlmerekov&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide_title=true" alt="GitHub stats" />
+</div>
 
 ## Was ich mitbringe
 

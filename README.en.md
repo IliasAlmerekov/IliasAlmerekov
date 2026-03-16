@@ -8,7 +8,7 @@
 
 [![Role](https://img.shields.io/badge/Role-Frontend%20Engineer-0f172a?style=for-the-badge)](./README.en.md)
 [![Focus](https://img.shields.io/badge/Focus-AI%20Engineering-1d4ed8?style=for-the-badge)](./README.en.md)
-[![Location](https://img.shields.io/badge/Market-DACH%20%26%20EU-0f766e?style=for-the-badge)](./README.en.md)
+[![Market](https://img.shields.io/badge/Market-Germany%20%7C%20EU-0f766e?style=for-the-badge)](./README.en.md)
 
 Building maintainable frontend products with React and TypeScript, combined with AI-assisted engineering workflows, architectural thinking, and strong delivery quality.
 
@@ -40,6 +40,18 @@ Alongside frontend development, I work with Claude and Codex on agentic workflow
 
 </div>
 
+## Engineering Signals
+
+<div align="center">
+
+![Frontend](https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript-111827?style=flat-square)
+![Backend-Aware](https://img.shields.io/badge/Backend--Aware-Node.js%20%7C%20Symfony-1f2937?style=flat-square)
+![Architecture](https://img.shields.io/badge/Architecture-C4%20%7C%20Data%20Flow%20%7C%20Use%20Cases-334155?style=flat-square)
+![Delivery](https://img.shields.io/badge/Delivery-Testing%20%7C%20CI%2FCD%20%7C%20Reviewability-475569?style=flat-square)
+![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Agents%20%7C%20Roles%20%7C%20Orchestration-0369a1?style=flat-square)
+
+</div>
+
 ## Focus
 
 | Area | Focus |
@@ -56,6 +68,18 @@ Alongside frontend development, I work with Claude and Codex on agentic workflow
 | [darts](https://github.com/IliasAlmerekov/darts) | Frontend architecture, testing discipline, PWA flow, DX | React, TypeScript, Vite, Vitest, Playwright |
 | [swiftly](https://github.com/IliasAlmerekov/swiftly) | Product thinking, full-stack integration, clean frontend delivery | React, TypeScript, Node.js |
 | [swiftly-backend](https://github.com/IliasAlmerekov/swiftly-backend) | API structure, contract testing, middleware, production-minded backend practice | Node.js, Express, Redis, MongoDB, Docker |
+
+## Recent Work
+
+- Built a React and TypeScript PWA with Vitest, Playwright, and clear quality gates.
+- Worked with agentic workflows for research, review, testing, and implementation.
+- Expanded backend practice in Node.js and Symfony while improving API and delivery understanding.
+
+## GitHub Snapshot
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IliasAlmerekov&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide_title=true" alt="GitHub stats" />
+</div>
 
 ## What I Bring
 
