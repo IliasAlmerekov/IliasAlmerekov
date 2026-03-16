@@ -8,7 +8,7 @@ Building maintainable React and TypeScript products with a strong focus on archi
 
 [DE](./PROFILE_README.md) | [EN](./PROFILE_README.en.md)
 
-[GitHub](https://github.com/IliasAlmerekov) · [LinkedIn](www.linkedin.com/in/ilias-almerekov-4b94622bb) · [Email](ilyasalmerekov@gmail.com)
+[GitHub](https://github.com/IliasAlmerekov) · [LinkedIn](https://www.linkedin.com/in/ilias-almerekov-4b94622bb) · [Email](mailto:ilyasalmerekov@gmail.com)
 
 </div>
 
@@ -95,5 +95,5 @@ My current direction is a `Frontend Engineer` role with meaningful exposure to `
 ## Contact
 
 - GitHub: [IliasAlmerekov](https://github.com/IliasAlmerekov)
-- LinkedIn: [IliasAlmerekov](www.linkedin.com/in/ilias-almerekov-4b94622bb)
-- Email: [IliasAlmerekov](ilyasalmerekov@gmail.com)
+- LinkedIn: [IliasAlmerekov](https://www.linkedin.com/in/ilias-almerekov-4b94622bb)
+- Email: [IliasAlmerekov](mailto:ilyasalmerekov@gmail.com)

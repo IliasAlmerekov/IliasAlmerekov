@@ -8,7 +8,7 @@ Entwicklung wartbarer React- und TypeScript-Produkte mit Fokus auf Architektur, 
 
 [DE](./README.md) | [EN](./README.en.md)
 
-[GitHub](https://github.com/IliasAlmerekov) · [LinkedIn](www.linkedin.com/in/ilias-almerekov-4b94622bb) · [E-Mail](ilyasalmerekov@gmail.com)
+[GitHub](https://github.com/IliasAlmerekov) · [LinkedIn](https://www.linkedin.com/in/ilias-almerekov-4b94622bb) · [E-Mail](mailto:ilyasalmerekov@gmail.com)
 
 </div>
 
@@ -95,5 +95,5 @@ Mein aktueller Fokus liegt auf einer Rolle als `Frontend Engineer` mit substanzi
 ## Kontakt
 
 - GitHub: [IliasAlmerekov](https://github.com/IliasAlmerekov)
-- LinkedIn: [IliasAlmerekov](www.linkedin.com/in/ilias-almerekov-4b94622bb)
-- E-Mail: [IliasAlmerekov](ilyasalmerekov@gmail.com)
+- LinkedIn: [IliasAlmerekov](https://www.linkedin.com/in/ilias-almerekov-4b94622bb)
+- E-Mail: [IliasAlmerekov](mailto:ilyasalmerekov@gmail.com)
