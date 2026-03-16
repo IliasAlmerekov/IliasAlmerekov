@@ -4,9 +4,13 @@
 
 **Frontend Engineer | AI Engineering Workflows**
 
-Building maintainable React and TypeScript products with a strong focus on architecture, delivery quality, and AI-assisted engineering.
+[DE](./README.md) | [EN](./README.en.md)
 
-[DE](./PROFILE_README.md) | [EN](./PROFILE_README.en.md)
+[![Role](https://img.shields.io/badge/Role-Frontend%20Engineer-0f172a?style=for-the-badge)](./README.en.md)
+[![Focus](https://img.shields.io/badge/Focus-AI%20Engineering-1d4ed8?style=for-the-badge)](./README.en.md)
+[![Location](https://img.shields.io/badge/Market-DACH%20%26%20EU-0f766e?style=for-the-badge)](./README.en.md)
+
+Building maintainable frontend products with React and TypeScript, combined with AI-assisted engineering workflows, architectural thinking, and strong delivery quality.
 
 [GitHub](https://github.com/IliasAlmerekov) · [LinkedIn](https://www.linkedin.com/in/ilias-almerekov-4b94622bb) · [Email](mailto:ilyasalmerekov@gmail.com)
 
@@ -14,86 +18,53 @@ Building maintainable React and TypeScript products with a strong focus on archi
 
 ---
 
-## Profile
+## Summary
 
-I am a frontend-focused software engineer with hands-on experience in React, TypeScript, Vite, UI implementation, testing, and delivery workflows. I am particularly interested in roles where strong frontend execution meets modern AI engineering practices.
+Frontend-focused software engineer with hands-on work in React, TypeScript, Vite, UI implementation, testing, and production-minded engineering standards.
 
-Alongside frontend development, I actively work with AI-assisted delivery using Claude and Codex, including agent setup, role design, phased task orchestration, and architecture-driven execution. I am also expanding backend depth through projects with Node.js and Symfony.
+Alongside frontend development, I work with Claude and Codex on agentic workflows: defining roles, adapting agents to the stack, structuring work by phases, and keeping implementation reviewable.
 
-## Focus Areas
+## Core Stack
 
-| Area                 | What I Work On                                                                                         |
-| -------------------- | ------------------------------------------------------------------------------------------------------ |
-| Frontend Engineering | React, TypeScript, Vite, responsive UI implementation, component architecture, maintainable codebases  |
-| AI Engineering       | Agent configuration, role design, orchestration flows, repository-aware prompting, MCP-based workflows |
-| Architecture         | C4 thinking, data flow analysis, use case decomposition, delivery planning, system structure           |
-| Quality and Delivery | Testing, linting, CI/CD, documentation, code review discipline, engineering standards                  |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,astro,html,css,nodejs,express,symfony,php,docker,redis,mongodb,figma,git,github" alt="Core stack" />
+</div>
 
-## AI Engineering Practice
+<div align="center">
 
-I use AI as an engineering capability, not as a shortcut. My work in this area includes:
+![Claude](https://img.shields.io/badge/Claude-Agent%20Workflows-d97706?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-Engineering%20Orchestration-2563eb?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Server%20Integration-0f766e?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Quality%20Gates-7c3aed?style=flat-square)
+![Testing](https://img.shields.io/badge/Testing-Vitest%20%7C%20Playwright-b91c1c?style=flat-square)
 
-- configuring agents for clear responsibilities such as coder, reviewer, tester, explorer, and research roles;
-- orchestrating work across research, design, planning, and implementation phases;
-- structuring tasks using C4, data flow, and use case analysis;
-- adapting agent behavior to stack-specific constraints, repository rules, and delivery standards;
-- using AI to accelerate implementation while keeping code quality, reviewability, and architecture in focus.
+</div>
 
-## Selected Work
+## Focus
 
-### Darts App
+| Area | Focus |
+| --- | --- |
+| Frontend Engineering | Maintainable React and TypeScript applications, responsive UI, clean component and project structure |
+| AI Engineering | Agent configuration, role design, multi-agent orchestration, repository-aware workflows |
+| Architecture | C4, data flow, use cases, and phase-based analysis and delivery planning |
+| Quality | Testing, linting, CI/CD, reviewability, documentation, and stable engineering standards |
 
-PWA darts application with room creation, real-time game flow, statistics, and a frontend codebase built with strong testing and quality gates.
+## Selected Projects
 
-**Stack:** React, TypeScript, Vite, Vitest, Playwright, CSS Modules  
-**Highlights:** frontend architecture, testing discipline, DX, CI-ready workflows  
-**Repository:** [darts](https://github.com/IliasAlmerekov/darts)
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [darts](https://github.com/IliasAlmerekov/darts) | Frontend architecture, testing discipline, PWA flow, DX | React, TypeScript, Vite, Vitest, Playwright |
+| [swiftly](https://github.com/IliasAlmerekov/swiftly) | Product thinking, full-stack integration, clean frontend delivery | React, TypeScript, Node.js |
+| [swiftly-backend](https://github.com/IliasAlmerekov/swiftly-backend) | API structure, contract testing, middleware, production-minded backend practice | Node.js, Express, Redis, MongoDB, Docker |
 
-### Swiftly
+## What I Bring
 
-Helpdesk-oriented full-stack project focused on product structure, clean frontend delivery, and production-minded engineering practices.
+- Frontend delivery from Figma to tested, maintainable UI.
+- AI-assisted delivery with clear roles such as coder, reviewer, tester, explorer, and research.
+- Structured task analysis across research, design, planning, and implementation.
+- Growing backend depth in Node.js and Symfony.
+- Strong interest in architecture, patterns, and long-term maintainable systems.
 
-**Stack:** React, TypeScript, Node.js  
-**Highlights:** maintainability, product thinking, frontend implementation, full-stack integration  
-**Repository:** [swiftly](https://github.com/IliasAlmerekov/swiftly)
+## Current Direction
 
-### Swiftly Backend
-
-Backend project centered on API structure, validation, contract testing, middleware composition, and CI-oriented engineering practices.
-
-**Stack:** Node.js, Express, Redis, MongoDB, OpenAPI, Docker  
-**Highlights:** backend architecture, testing, validation, deployment readiness  
-**Repository:** [swiftly-backend](https://github.com/IliasAlmerekov/swiftly-backend)
-
-## Technical Stack
-
-**Frontend**  
-React, TypeScript, JavaScript, Vite, Astro, Storyblok, CSS Modules, Figma-to-code implementation
-
-**Backend**  
-Node.js, Express, Symfony, PHP, REST API design, middleware, validation, Docker
-
-**Testing and Tooling**  
-Vitest, Playwright, ESLint, Stylelint, Prettier, CI/CD, repository standards, documentation
-
-**AI Workflow Tooling**  
-Claude, Codex, MCP servers, multi-agent orchestration, task decomposition, architecture-first delivery
-
-## Engineering Approach
-
-I am most effective in environments where frontend quality is treated as engineering, not only interface implementation. I care about explicit system boundaries, readable code, stable delivery practices, and a development process that remains sustainable as complexity grows.
-
-My current direction is a `Frontend Engineer` role with meaningful exposure to `AI Engineering` workflows, internal tooling, and architecture-driven product development.
-
-## Currently Developing
-
-- deeper backend understanding with Node.js and Symfony;
-- stronger architectural decision-making and pattern selection;
-- more advanced AI engineering workflows for analysis, planning, review, and implementation;
-- better end-to-end delivery from Figma to tested production-ready UI.
-
-## Contact
-
-- GitHub: [IliasAlmerekov](https://github.com/IliasAlmerekov)
-- LinkedIn: [IliasAlmerekov](https://www.linkedin.com/in/ilias-almerekov-4b94622bb)
-- Email: [IliasAlmerekov](mailto:ilyasalmerekov@gmail.com)
+I am looking for a role as a `Frontend Engineer` with meaningful exposure to `AI Engineering`, developer productivity, internal tooling, or architecture-driven product development.
