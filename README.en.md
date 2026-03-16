@@ -78,16 +78,8 @@ Alongside frontend development, I work with Claude and Codex on agentic workflow
 ## GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IliasAlmerekov&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IliasAlmerekov&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide_title=true" alt="GitHub stats" />
 </div>
-
-## What I Bring
-
-- Frontend delivery from Figma to tested, maintainable UI.
-- AI-assisted delivery with clear roles such as coder, reviewer, tester, explorer, and research.
-- Structured task analysis across research, design, planning, and implementation.
-- Growing backend depth in Node.js and Symfony.
-- Strong interest in architecture, patterns, and long-term maintainable systems.
 
 ## Current Direction
 

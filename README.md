@@ -78,16 +78,8 @@ Parallel dazu arbeite ich mit Claude und Codex an agentischen Workflows: Rollen 
 ## GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IliasAlmerekov&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IliasAlmerekov&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide_title=true" alt="GitHub stats" />
 </div>
-
-## Was ich mitbringe
-
-- Frontend-Umsetzung von Figma bis zu getesteter, wartbarer UI.
-- AI-gestuetzte Delivery mit klaren Rollen wie coder, reviewer, tester, explorer und research.
-- Strukturierte Aufgabenanalyse ueber Research, Design, Planung und Implementierung.
-- Wachsendes Backend-Verstaendnis in Node.js und Symfony.
-- Starkes Interesse an Architektur, Patterns und langfristig tragfaehigen Codebases.
 
 ## Zielbild
 
