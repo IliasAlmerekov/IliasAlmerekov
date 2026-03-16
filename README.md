@@ -6,7 +6,7 @@
 
 Entwicklung wartbarer React- und TypeScript-Produkte mit Fokus auf Architektur, Delivery-Qualitaet und AI-unterstuetzten Engineering-Workflows.
 
-[DE](./PROFILE_README.md) | [EN](./PROFILE_README.en.md)
+[DE](./README.md) | [EN](./README.en.md)
 
 [GitHub](https://github.com/IliasAlmerekov) · [LinkedIn](www.linkedin.com/in/ilias-almerekov-4b94622bb) · [E-Mail](ilyasalmerekov@gmail.com)
 
