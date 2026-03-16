@@ -8,7 +8,6 @@
 
 [![Role](https://img.shields.io/badge/Role-Frontend%20Engineer-0f172a?style=for-the-badge)](./README.md)
 [![Focus](https://img.shields.io/badge/Focus-AI%20Engineering-1d4ed8?style=for-the-badge)](./README.md)
-[![Location](https://img.shields.io/badge/Market-DACH%20%26%20EU-0f766e?style=for-the-badge)](./README.md)
 
 Entwicklung wartbarer Frontends mit React und TypeScript, kombiniert mit AI-gestuetzten Engineering-Workflows, Architekturdenken und hoher Delivery-Qualitaet.
 
