@@ -78,7 +78,7 @@ Alongside frontend development, I work with Claude and Codex on agentic workflow
 ## GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IliasAlmerekov&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliasAlmerekov&theme=github_dark" alt="GitHub profile summary" />
 </div>
 
 ## Current Direction
