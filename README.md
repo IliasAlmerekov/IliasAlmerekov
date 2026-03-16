@@ -80,7 +80,3 @@ Parallel dazu arbeite ich mit Claude und Codex an agentischen Workflows: Rollen 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliasAlmerekov&theme=github_dark" alt="GitHub profile summary" />
 </div>
-
-## Zielbild
-
-Ich suche eine Rolle als `Frontend Engineer` mit Naehe zu `AI Engineering`, Developer Productivity, Internal Tooling oder architekturgetriebener Produktentwicklung.
