@@ -80,7 +80,3 @@ Alongside frontend development, I work with Claude and Codex on agentic workflow
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliasAlmerekov&theme=github_dark" alt="GitHub profile summary" />
 </div>
-
-## Current Direction
-
-I am looking for a role as a `Frontend Engineer` with meaningful exposure to `AI Engineering`, developer productivity, internal tooling, or architecture-driven product development.
