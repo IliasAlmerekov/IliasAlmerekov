@@ -1,0 +1,137 @@
+<svg width="860" height="150" viewBox="0 0 860 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated technology stack marquee</title>
+  <desc id="desc">A right-to-left moving list of technology pills featuring React, TypeScript, Vite, Astro, Storyblok, Node.js, Symfony, PHP, Docker, Redis, MongoDB, Figma, Claude, Codex, and MCP.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="860" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="glow" x1="32" y1="20" x2="828" y2="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.28" />
+      <stop offset="0.5" stop-color="#2563EB" stop-opacity="0.14" />
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0.18" />
+    </linearGradient>
+    <clipPath id="frame">
+      <rect x="16" y="22" width="828" height="106" rx="20" />
+    </clipPath>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .pill-label { fill: #E5EEF8; font-size: 16px; font-weight: 600; dominant-baseline: middle; }
+      .pill-icon { fill: #0F172A; font-size: 14px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; }
+      .caption { fill: #94A3B8; font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; }
+      .edge { fill: url(#panel); }
+    </style>
+  </defs>
+
+  <rect width="860" height="150" rx="24" fill="url(#panel)" />
+  <rect x="1" y="1" width="858" height="148" rx="23" stroke="#1E293B" />
+  <rect x="16" y="22" width="828" height="106" rx="20" fill="#0B1220" />
+  <rect x="16" y="22" width="828" height="106" rx="20" fill="url(#glow)" />
+  <text class="caption" x="32" y="42">Core Stack</text>
+
+  <g clip-path="url(#frame)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1216 0" dur="22s" repeatCount="indefinite" />
+
+      <g transform="translate(32 60)">
+        <g transform="translate(0 0)">
+          <rect width="140" height="44" rx="22" fill="#122033" stroke="#1E3A5F" />
+          <circle cx="24" cy="22" r="14" fill="#61DAFB" />
+          <text class="pill-icon" x="24" y="23">R</text>
+          <text class="pill-label" x="48" y="23">React</text>
+        </g>
+        <g transform="translate(156 0)">
+          <rect width="174" height="44" rx="22" fill="#11243B" stroke="#1D4ED8" />
+          <circle cx="24" cy="22" r="14" fill="#3178C6" />
+          <text class="pill-icon" x="24" y="23">TS</text>
+          <text class="pill-label" x="48" y="23">TypeScript</text>
+        </g>
+        <g transform="translate(346 0)">
+          <rect width="126" height="44" rx="22" fill="#1B1A2F" stroke="#7C3AED" />
+          <circle cx="24" cy="22" r="14" fill="#A78BFA" />
+          <text class="pill-icon" x="24" y="23">V</text>
+          <text class="pill-label" x="48" y="23">Vite</text>
+        </g>
+        <g transform="translate(488 0)">
+          <rect width="132" height="44" rx="22" fill="#1F2730" stroke="#F59E0B" />
+          <circle cx="24" cy="22" r="14" fill="#FBBF24" />
+          <text class="pill-icon" x="24" y="23">A</text>
+          <text class="pill-label" x="48" y="23">Astro</text>
+        </g>
+        <g transform="translate(636 0)">
+          <rect width="164" height="44" rx="22" fill="#1D2735" stroke="#14B8A6" />
+          <circle cx="24" cy="22" r="14" fill="#34D399" />
+          <text class="pill-icon" x="24" y="23">SB</text>
+          <text class="pill-label" x="48" y="23">Storyblok</text>
+        </g>
+        <g transform="translate(816 0)">
+          <rect width="154" height="44" rx="22" fill="#17202F" stroke="#84CC16" />
+          <circle cx="24" cy="22" r="14" fill="#8CC84B" />
+          <text class="pill-icon" x="24" y="23">N</text>
+          <text class="pill-label" x="48" y="23">Node.js</text>
+        </g>
+        <g transform="translate(986 0)">
+          <rect width="152" height="44" rx="22" fill="#1E1F2E" stroke="#64748B" />
+          <circle cx="24" cy="22" r="14" fill="#111827" />
+          <text class="pill-icon" x="24" y="23" fill="#FFFFFF">S</text>
+          <text class="pill-label" x="48" y="23">Symfony</text>
+        </g>
+      </g>
+
+      <g transform="translate(1264 60)">
+        <g transform="translate(0 0)">
+          <rect width="124" height="44" rx="22" fill="#2A1D22" stroke="#F472B6" />
+          <circle cx="24" cy="22" r="14" fill="#F472B6" />
+          <text class="pill-icon" x="24" y="23">PHP</text>
+          <text class="pill-label" x="48" y="23">PHP</text>
+        </g>
+        <g transform="translate(140 0)">
+          <rect width="150" height="44" rx="22" fill="#1F232E" stroke="#60A5FA" />
+          <circle cx="24" cy="22" r="14" fill="#60A5FA" />
+          <text class="pill-icon" x="24" y="23">D</text>
+          <text class="pill-label" x="48" y="23">Docker</text>
+        </g>
+        <g transform="translate(306 0)">
+          <rect width="136" height="44" rx="22" fill="#261E1A" stroke="#FB7185" />
+          <circle cx="24" cy="22" r="14" fill="#EF4444" />
+          <text class="pill-icon" x="24" y="23">R</text>
+          <text class="pill-label" x="48" y="23">Redis</text>
+        </g>
+        <g transform="translate(458 0)">
+          <rect width="176" height="44" rx="22" fill="#162428" stroke="#22C55E" />
+          <circle cx="24" cy="22" r="14" fill="#10B981" />
+          <text class="pill-icon" x="24" y="23">M</text>
+          <text class="pill-label" x="48" y="23">MongoDB</text>
+        </g>
+        <g transform="translate(650 0)">
+          <rect width="138" height="44" rx="22" fill="#1E2330" stroke="#A78BFA" />
+          <circle cx="24" cy="22" r="14" fill="#A78BFA" />
+          <text class="pill-icon" x="24" y="23">F</text>
+          <text class="pill-label" x="48" y="23">Figma</text>
+        </g>
+        <g transform="translate(804 0)">
+          <rect width="144" height="44" rx="22" fill="#2A2417" stroke="#F59E0B" />
+          <circle cx="24" cy="22" r="14" fill="#F59E0B" />
+          <text class="pill-icon" x="24" y="23">C</text>
+          <text class="pill-label" x="48" y="23">Claude</text>
+        </g>
+        <g transform="translate(964 0)">
+          <rect width="142" height="44" rx="22" fill="#182233" stroke="#38BDF8" />
+          <circle cx="24" cy="22" r="14" fill="#38BDF8" />
+          <text class="pill-icon" x="24" y="23">CX</text>
+          <text class="pill-label" x="48" y="23">Codex</text>
+        </g>
+        <g transform="translate(1122 0)">
+          <rect width="126" height="44" rx="22" fill="#16292A" stroke="#2DD4BF" />
+          <circle cx="24" cy="22" r="14" fill="#2DD4BF" />
+          <text class="pill-icon" x="24" y="23">M</text>
+          <text class="pill-label" x="48" y="23">MCP</text>
+        </g>
+      </g>
+    </g>
+
+    <rect class="edge" x="16" y="22" width="28" height="106" />
+    <rect class="edge" x="816" y="22" width="28" height="106" />
+  </g>
+</svg>

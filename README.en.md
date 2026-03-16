@@ -27,7 +27,7 @@ Alongside frontend development, I work with Claude and Codex on agentic workflow
 ## Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,vite,astro,html,css,nodejs,express,symfony,php,docker,redis,mongodb,figma,git,github" alt="Core stack" />
+  <img src="./assets/stack-marquee.svg" alt="Animated core stack marquee" />
 </div>
 
 <div align="center">
