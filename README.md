@@ -15,8 +15,6 @@ Open to learning new technologies and approaches, with a strong drive for growth
 
 ---
 
-## Stack
-
 <div align="center">
 <img src="./assets/stack-marquee.svg" alt="Animated stack carousel">
 </div>
