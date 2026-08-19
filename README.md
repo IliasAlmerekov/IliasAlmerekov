@@ -4,7 +4,7 @@
 
 Frontend + AI Engineering Workflows
 
-[GitHub](https://github.com/IliasAlmerekov) · [LinkedIn](https://www.linkedin.com/in/ilias-almerekov-4b94622bb) · [E-Mail](mailto:ilyasalmerekov@gmail.com)
+[GitHub](https://github.com/IliasAlmerekov) · [LinkedIn](https://www.linkedin.com/in/iliasalmerekov) · [E-Mail](mailto:ilyasalmerekov@gmail.com)
 
 </div>
 
